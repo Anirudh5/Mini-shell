@@ -1,0 +1,9 @@
+implemented
+redirection
+pipe
+ctrl+d
+ctrl+c
+jobs
+quit
+kjob
+killallbg
